@@ -1,2 +1,2 @@
 # Ubuntu
-Vagrant Project Testing.
+Vagrant testing project with ubuntu image.
